@@ -35,7 +35,7 @@ These wallets could be used to give the player a reward, adding the currencies i
 When removing money from a wallet, we need to provided to system how many coins of each type (if any) we want to remove.
 
 Demo scene:
-![image](https://github.com/evbishop/CodeSample_Currencies/assets/16606035/dfc3f2e6-cfa2-47ec-8c0a-c8f9a360119c)
+![307803878-dfc3f2e6-cfa2-47ec-8c0a-c8f9a360119c](https://github.com/evbishop/CodeSample_Currencies/assets/16606035/0f3164c7-d41c-4f57-8507-fbf3407bba85)
 
 This is how you can run the tests:
-![image](https://github.com/evbishop/CodeSample_Currencies/assets/16606035/e336b832-f23a-41a9-8cd5-d1802095968e)
+![307803049-e336b832-f23a-41a9-8cd5-d1802095968e](https://github.com/evbishop/CodeSample_Currencies/assets/16606035/5b822178-08af-4479-98ab-32a36da23dc8)
