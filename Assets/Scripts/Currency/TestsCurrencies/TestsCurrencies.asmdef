@@ -1,0 +1,21 @@
+{
+    "name": "TestsCurrencies",
+    "rootNamespace": "CodeSample_Currencies.TestsCurrencies",
+    "references": [
+        "UnityEngine.TestRunner",
+        "CodeSample_Currencies"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "nunit.framework.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [
+        "UNITY_INCLUDE_TESTS"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
